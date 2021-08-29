@@ -1,6 +1,6 @@
 <template>
   <div class="chat container">
-    <h2 class="center teal-text">Username: {{ this.name }}</h2>
+    <h2 class="center teal-text">Universal Chat</h2>
     <div class="card">
       <div class="card-content">
         <ul class="messages" v-chat-scroll>
